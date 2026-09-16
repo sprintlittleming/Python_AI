@@ -1,0 +1,14 @@
+selenium
+beautifulsoup4
+requests
+opencv-python
+ultralytics
+numpy
+Pillow
+pandas
+yfinance
+finmind
+mplfinance
+ezdxf
+matplotlib
+numpy-stl
